@@ -15,10 +15,13 @@ seperti :
 ___
 
 ### rekomendasi wallet
+
 - **xverse**, UI/UX bagus mirip wallet biasa cuma support *nested segwit* sama *taproot* 
+
 ![xverse](https://cdn.discordapp.com/attachments/981547339762262063/1112205591646060645/image.png)
 
 - **unisat**, smooth, anti lag, support banyak address type btc
+
 ![UNISAT](https://cdn.discordapp.com/attachments/981547339762262063/1112205866322624592/image.png)
 
 
